@@ -1,0 +1,76 @@
+/* screen logo  */
+#aa1{
+    padding-left: 135px;
+    width: 154px;
+    padding-top: 40px;
+
+}
+.a2{
+    padding-left: 135px;
+    font-size: 35px;
+    color: antiquewhite;
+}
+.a3{
+    padding-left: 135px;
+    font-size: 25px;
+    margin-top: -45px;
+}
+.a4{
+    padding-left: 130px;
+    color: antiquewhite;
+    font-size: 30px;
+}
+
+.container1{
+    background-color: brown;
+    height: 900px;
+    
+    background: linear-gradient(-36deg, white 8%, brown 0%);
+}
+#bb1{
+    padding-left: 140px ;
+    width: 30px;
+    margin-bottom: -80px;
+}
+#bb2{
+    
+    padding-left: 190px;
+    margin-top: 45px;
+    box-sizing: border-box;
+}
+
+.logo{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 100px;
+    box-sizing: border-box;
+
+}
+.logos{
+    width: 15%;
+    height: auto;
+    text-align: center;
+}
+.logos h2{
+    color: red;
+}
+.container3{
+    background-color:brown;
+    color: antiquewhite;
+    height: 400px;
+    
+    margin-top: 100px;
+    background: linear-gradient(-36deg, white 8%, brown 0%);
+}
+.c1{
+    padding-left: 127px;
+    font-size: 30px;
+    padding-top: 70px;
+}
+
+
+
+
+
